@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453673CC-F020-402B-B459-44E7AE329B79}|HRMS\\HRMS.csproj|D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453673CC-F020-402B-B459-44E7AE329B79}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3681D04E-964F-49E1-AA39-6E0AC4B94B44}|EmployeeLib\\EmployeeLib.csproj|d:\\cdac\\sunbeam_gitdata\\all assignments\\ms.net_assignments\\assignment03\\employeelib\\employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3681D04E-964F-49E1-AA39-6E0AC4B94B44}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cs",
+              "DocumentMoniker": "D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\EmployeeLib\\Date.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Date.cs",
+              "ToolTip": "D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\EmployeeLib\\Date.cs",
+              "RelativeToolTip": "EmployeeLib\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:44:53.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "D:\\CDAC\\Sunbeam_Gitdata\\All Assignments\\Ms.Net_Assignments\\Assignment03\\EmployeeLib\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:27:00.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

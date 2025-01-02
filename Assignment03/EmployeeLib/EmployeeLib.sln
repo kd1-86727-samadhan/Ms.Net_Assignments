@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLib", "EmployeeLib\EmployeeLib.csproj", "{3681D04E-964F-49E1-AA39-6E0AC4B94B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMS", "HRMS\HRMS.csproj", "{453673CC-F020-402B-B459-44E7AE329B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3681D04E-964F-49E1-AA39-6E0AC4B94B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3681D04E-964F-49E1-AA39-6E0AC4B94B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3681D04E-964F-49E1-AA39-6E0AC4B94B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3681D04E-964F-49E1-AA39-6E0AC4B94B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453673CC-F020-402B-B459-44E7AE329B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453673CC-F020-402B-B459-44E7AE329B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453673CC-F020-402B-B459-44E7AE329B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453673CC-F020-402B-B459-44E7AE329B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

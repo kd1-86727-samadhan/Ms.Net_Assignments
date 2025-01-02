@@ -1,0 +1,10 @@
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\bin\Debug\HRMS.exe.config
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\bin\Debug\HRMS.exe
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\bin\Debug\HRMS.pdb
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\bin\Debug\EmployeeLib.dll
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\bin\Debug\EmployeeLib.pdb
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\obj\Debug\HRMS.csproj.Up2Date
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\obj\Debug\HRMS.exe
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment03\EmployeeLib\HRMS\obj\Debug\HRMS.pdb
