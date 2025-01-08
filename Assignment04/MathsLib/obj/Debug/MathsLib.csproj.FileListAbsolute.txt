@@ -1,0 +1,6 @@
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\bin\Debug\MathsLib.dll
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\bin\Debug\MathsLib.pdb
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\obj\Debug\MathsLib.csproj.AssemblyReference.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\obj\Debug\MathsLib.csproj.CoreCompileInputs.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\obj\Debug\MathsLib.dll
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\MathsLib\obj\Debug\MathsLib.pdb

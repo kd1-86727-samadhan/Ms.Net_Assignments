@@ -1,0 +1,10 @@
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\obj\Debug\Question01.csproj.AssemblyReference.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\obj\Debug\Question01.csproj.CoreCompileInputs.cache
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\bin\Debug\Question01.exe.config
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\bin\Debug\Question01.exe
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\bin\Debug\Question01.pdb
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\bin\Debug\MathsLib.dll
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\bin\Debug\MathsLib.pdb
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\obj\Debug\Question01.csproj.Up2Date
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\obj\Debug\Question01.exe
+D:\CDAC\Sunbeam_Gitdata\All Assignments\Ms.Net_Assignments\Assignment04\Question01\obj\Debug\Question01.pdb
